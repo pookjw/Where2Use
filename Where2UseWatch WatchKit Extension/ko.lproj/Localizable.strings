@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Where2Use
+
+  Created by Jinwoo Kim on 10/3/21.
+  
+*/
+
+"MENU_TITLE" = "Where2Use";
+
+"FETCH_WITH_OPTIONS" = "지역으로 검색";
+
+"PREFERENCES" = "설정";
